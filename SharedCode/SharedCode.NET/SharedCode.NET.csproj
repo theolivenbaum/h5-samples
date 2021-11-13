@@ -7,6 +7,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <Import Project="..\SharedCode.Common\SharedCode.Common\SharedCode.Common.projitems" Label="Shared" />
+  <Import Project="..\SharedCode.Common\SharedCode.Common.projitems" Label="Shared" />
 
 </Project>

@@ -9,5 +9,5 @@
         <PackageReference Include="h5.core" Version="0.0.13833" />
     </ItemGroup>
 
-    <Import Project="..\SharedCode.Common\SharedCode.Common\SharedCode.Common.projitems" Label="Shared" />
+    <Import Project="..\SharedCode.Common\SharedCode.Common.projitems" Label="Shared" />
 </Project>
