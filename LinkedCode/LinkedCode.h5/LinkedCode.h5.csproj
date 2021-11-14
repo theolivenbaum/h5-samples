@@ -5,11 +5,11 @@
     </PropertyGroup>
 	
     <ItemGroup>
+      <Compile Include="..\LinkedCode.NET\HelloWorld.cs" Link="HelloWorld.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="h5" Version="0.0.13619" />
         <PackageReference Include="h5.core" Version="0.0.13833" />
     </ItemGroup>
-
-	<ItemGroup>
-		<Compile Include="..\LinkedCode.NET\HelloWorld.cs" Link="HelloWorld.cs" />
-	</ItemGroup>
 </Project>
