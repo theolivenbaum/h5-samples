@@ -4,7 +4,11 @@
 
 H5 is a modern fork of the original [Bridge](https://github.com/bridgedotnet/bridge) C# to Javascript compiler, updated to support multi-platform development using .NET 6.0 and .NET Standard 2.1 projects, while dropping support for legacy features and dependencies.
 
-This repository provides some samples on how to use [h5](https://h5.rocks).
+This repository provides some samples on how to use [h5](https://h5.rocks). If you have any ideas or suggestions, feel free to [open an issue](https://github.com/theolivenbaum/h5-samples/issues)!
 
 ## Samples
 - [Shared Projects](https://github.com/theolivenbaum/h5-samples/tree/main/SharedCode) vs [Linked Code](https://github.com/theolivenbaum/h5-samples/tree/main/LinkedCode) (read more on the [blog](https://medium.com/@theolivenbaum/building-web-apps-in-c-part-1-92e944fa5874))
+- Using external javascript libraries (coming)
+- Building an Electron app (coming)
+
+
