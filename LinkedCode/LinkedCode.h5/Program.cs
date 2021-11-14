@@ -3,9 +3,9 @@ using H5;
 using H5.Core;
 using static H5.Core.es5;
 using static H5.Core.dom;
-using SharedCode.Common;
+using LinkedCode.Common;
 
-namespace SharedCode.h5
+namespace LinkedCode.h5
 {
     class Program
     {

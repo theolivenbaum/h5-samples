@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SharedCode.Common
+namespace LinkedCode.Common
 {
     //This code is shared between both .NET and h5 projects
 
