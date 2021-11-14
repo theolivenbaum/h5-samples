@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedCode.h5", "LinkedCode.h5\LinkedCode.h5.csproj", "{0845F10E-5030-49C0-9C8F-EFD6398A5A4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedCode.NET", "LinkedCode.NET\LinkedCode.NET.csproj", "{B9DE9352-54FD-4A8A-9144-E6EB4BE5F681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0845F10E-5030-49C0-9C8F-EFD6398A5A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0845F10E-5030-49C0-9C8F-EFD6398A5A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0845F10E-5030-49C0-9C8F-EFD6398A5A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0845F10E-5030-49C0-9C8F-EFD6398A5A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DE9352-54FD-4A8A-9144-E6EB4BE5F681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DE9352-54FD-4A8A-9144-E6EB4BE5F681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DE9352-54FD-4A8A-9144-E6EB4BE5F681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DE9352-54FD-4A8A-9144-E6EB4BE5F681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994691F3-35D4-4D1E-B326-61E4194BA332}
+	EndGlobalSection
+EndGlobal
